@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-OpenTTD Estonian Town Names
+OpenTTD Vietnamese Town Names
 ========================================================================
 ------------------------------------------------------------------------
 
@@ -63,15 +63,16 @@ selection menu.
 This software is licensed as described in the file `LICENSE.md`, which
 You should have received as part of this distribution. The terms are
 also available at
-<https://github.com/gynter/openttd-estonian-town-names/blob/master/LICENSE.md>.
+<https://github.com/KhoiCanDev/openttd-vietnamese-town-names/blob/master/LICENSE.md>.
 
 7. Support
 ----------
 
 Issue tracker can be found at
-<https://github.com/gynter/openttd-estonian-town-names/issues>.
+<https://github.com/KhoiCanDev/openttd-vietnamese-town-names/issues>.
 
 8. Authors
 ----------
 
-- Günter Kits (gynter@kits.ee)
+- Günter Kits (gynter@kits.ee) - the original author
+- Khôi Lê (khoi.le.nt.1001@gmail.com) - provider of Vietnamese version
