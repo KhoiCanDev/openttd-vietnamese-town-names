@@ -1,4 +1,4 @@
 VERSION     :1.0.0
-GIT_URL     :https://github.com/gynter/openttd-estonian-town-names
+GIT_URL     :https://github.com/KhoiCanDev/openttd-vietnamese-town-names
 LICENSE     :MIT
-AUTHORS     :Günter Kits
+AUTHORS     :KhoiCanDev

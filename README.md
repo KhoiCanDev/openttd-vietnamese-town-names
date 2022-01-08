@@ -15,7 +15,7 @@ OpenTTD Vietnamese Town Names
 1. Description
 --------------
 
-This NewGRF provides more than 4000 existing Estonian village, town and
+This NewGRF provides more than 600 existing Vietnamese village, town and
 city names to OpenTTD.
 
 2. Requirements
@@ -33,15 +33,15 @@ Please use [BaNaNaS](http://bananas.openttd.org) for installation.
 
 - [Install NML with all the requirements](http://newgrf-specs.tt-wiki.net/wiki/NML:Getting_started#Linux)
 - Download the latest release from
-<https://github.com/gynter/openttd-estonian-town-names/releases/latest>
+<https://github.com/KhoiCanDev/openttd-vietnamese-town-names/releases>
 and extract the archive to the chosen destination directory.
 
     Development files can be browsed via web browser or can be optained
-    from a git repository <https://github.com/gynter/openttd-estonian-town-names>.
+    from a git repository <https://github.com/KhoiCanDev/openttd-vietnamese-town-names>.
 
     *Note: You can also get the sources using the
     [GIT](http://git-scm.com/book/en/Getting-Started-Installing-Git) and
-    cloning the `https://github.com/gynter/openttd-estonian-town-names.git` repository.*
+    cloning the `https://github.com/KhoiCanDev/openttd-vietnamese-town-names.git` repository.*
 
 - Build the NewGRF:
 
@@ -54,7 +54,7 @@ and extract the archive to the chosen destination directory.
 ----------------
 
 Execute OpenTTD. Choose *NewGRF Settings* and enable the NewGRF. Then
-choose *Game Options* and select *Estonian* from *Town names*
+choose *Game Options* and select *Vietnamese* from *Town names*
 selection menu.
 
 6. License
