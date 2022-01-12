@@ -21,7 +21,7 @@
 // SOFTWARE.
 
 grf {
-    grfid: "GK\00\00";
+    grfid: "KL\00\00";
     name: string(STR_GRF_NAME);
     desc: string(STR_GRF_DESCRIPTION);
     url: string(STR_GRF_URL);
